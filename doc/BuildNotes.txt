@@ -1,0 +1,33 @@
+Millennium Falcon Notes
+
+Preshading:
+Tamiya XF-85 Black Rubber or
+Tamiya XF-63 German Gray or
+black primer
+
+
+Body Color:
+Tamiya AS-20 Insignia White
+or
+Mix Tamiya XF-55 Deck Tan (1 part) with XF-2 Flat White (4 parts)
+
+Dry Brushing Details:
+Tamiya Metallic Blue mixed with Smoke
+
+
+
+DF Player Files
+mp3 folder
+0001_Starwars Theme Song short.mp3
+0002_MFalcon Takeoff.mp3
+0003_MFalcon Hyperdrive Fail.mp3
+0004_MFalcon Hyperdrive.mp3
+0005_Lazer Canon Single Shot.mp3
+0006_Lazer Canon Multi Shot.mp3
+0007_Explosion.mp3
+0008_GetOutOfHere.mp3
+0009_Starwars Theme Song long.mp3
+0010_BB-8_0.mp3
+0011_BB-8_1.mp3
+
+
